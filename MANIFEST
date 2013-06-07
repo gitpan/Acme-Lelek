@@ -1,0 +1,10 @@
+1
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Acme/Lelek.pm
+t/01-load.t
+t/02-basic.t
