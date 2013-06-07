@@ -1,9 +1,9 @@
-1
 LICENSE
 MANIFEST
 META.yml
 Makefile.PL
 README
+README.md
 dist.ini
 lib/Acme/Lelek.pm
 t/01-load.t
