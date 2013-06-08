@@ -22,9 +22,10 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Const::Fast" => 0,
     "Convert::BaseN" => 0,
-    "Moo" => 0
+    "Moo" => 0,
+    "autobox::Core" => 0
   },
-  "VERSION" => "1.002",
+  "VERSION" => "1.003",
   "test" => {
     "TESTS" => "t/*.t"
   }
